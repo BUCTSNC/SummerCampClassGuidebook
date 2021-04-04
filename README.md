@@ -1,4 +1,8 @@
-## 2021红岩网校工作站移动开发部Android方向寒假考核说明文档
+## BUCTSNC 暑期学校 指导说明
+
+以下内容来自上游仓库[2021红岩网校工作站移动开发部Android方向寒假考核说明文档](https://github.com/SpreadWater/RedRockWinnterWork)，暂未进行Localization工作，还请稍安勿躁
+
+------
 
 2月20日更新
 经过大家1个月时间的辛苦奋斗，到了收关展示的时间。
